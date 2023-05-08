@@ -1,13 +1,23 @@
 document.addEventListener('DOMContentLoaded', function () {
-  var plot_data = JSON.parse(document.getElementById('plot-data').textContent);
+  var plotData = JSON.parse(document.getElementById('plot-data').textContent);
 
-  Plotly.newPlot('affinitree-plot', plot_data.data, plot_data.layout).then(function () {
+  var layout = plotData.layout;
+
+  // Update layout to use window's inner width and height
+  layout.width = window.innerWidth;
+  layout.height = window.innerHeight;
+
+  const config = {
+    displayModeBar: false,  // The toolbar will be hidden at all times
+    responsive: true
+  };
+
+  Plotly.newPlot('affinitree-plot', plotData.data, layout, config).then(function () {
     var plotDiv = document.getElementById('affinitree-plot');
-    var nodeClicked = false;  // Variable to track whether a node was clicked
+    var nodeClicked = false;
 
     plotDiv.on('plotly_click', function (data) {
-      nodeClicked = true;  // Set to true as this event only fires when a node is clicked
-      // Existing node click handler code
+      nodeClicked = true;
       const pointIndex = data.points[0].pointIndex;
       const encodedImage = data.points[0].customdata;
 
@@ -15,9 +25,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
       const img = document.createElement('img');
       img.src = imgData;
-      img.style.width = '900px'; // Set a larger width for the image
+      img.style.width = '900px';
 
-            // Create a modal
       const modal = document.createElement('div');
       modal.style.display = 'block';
       modal.style.width = '100%';
@@ -30,32 +39,34 @@ document.addEventListener('DOMContentLoaded', function () {
       modal.style.textAlign = 'center';
       modal.style.paddingTop = '100px';
 
-      // Add the image to the modal
       modal.appendChild(img);
 
-      // Add the modal to the body
       document.body.appendChild(modal);
 
-      // Close the modal when clicking outside of the image
       modal.addEventListener('click', function () {
         document.body.removeChild(modal);
       });
 
-      // Prevent the modal from closing when clicking on the image
       img.addEventListener('click', function (event) {
         event.stopPropagation();
       });
     });
 
-    // Event listener for clicks on the entire plot area
-    plotDiv.addEventListener('click', function () {
-      if (!nodeClicked) {  // If no node was clicked
-        // Deselect the current node
-        var update = {'selectedpoints': null};
-        Plotly.restyle('affinitree-plot', update);
-      }
-      nodeClicked = false;  // Reset the variable for the next click
+
+    window.addEventListener('resize', function () {
+      // Get the new window size
+      var width = window.innerWidth;
+      var height = window.innerHeight;
+
+      // Update the layout with the new size
+      var update = {
+        width: width,
+        height: height
+      };
+
+      // Restyle the plot with the new layout
+      Plotly.relayout('affinitree-plot', update);
     });
+
   });
 });
-
