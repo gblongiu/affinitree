@@ -40,7 +40,7 @@ def create_radial_bar_chart(df, node_index):
     values = df.loc[
         node_index, ['P Total', 'HA Total', 'NS Total', 'RD Total', 'SD Total', 'ST Total', 'CO Total']].values
     user_handle = df.loc[node_index, 'Identifier']
-    categories = ['P Total', 'HA Total', 'NS Total', 'RD Total', 'SD Total', 'ST Total', 'CO Total']
+    categories = ['P', 'HA', 'NS', 'RD', 'SD', 'ST', 'CO']
     n_categories = len(categories)
 
     rotation_offset = np.pi / 14
