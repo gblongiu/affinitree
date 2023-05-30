@@ -1,71 +1,102 @@
 document.addEventListener('DOMContentLoaded', function () {
   var plotData = JSON.parse(document.getElementById('plot-data').textContent);
-
   var layout = plotData.layout;
 
-  // Update layout to use window's inner width and height
   layout.width = window.innerWidth;
   layout.height = window.innerHeight;
+  layout.dragmode = false;  // Disable click and drag zooming
 
   const config = {
-    displayModeBar: false,  // The toolbar will be hidden at all times
-    responsive: true
+    displayModeBar: false,
+    responsive: true,
+    scrollZoom: false // Disable scroll zooming
   };
 
-  Plotly.newPlot('affinitree-plot', plotData.data, layout, config).then(function () {
+  // We double the data so that we can control visibility independently
+  var traces = plotData.data.concat(plotData.data);
+
+  Plotly.newPlot('affinitree-plot', traces, layout, config).then(function () {
     var plotDiv = document.getElementById('affinitree-plot');
-    var nodeClicked = false;
 
-    plotDiv.on('plotly_click', function (data) {
-      nodeClicked = true;
-      const pointIndex = data.points[0].pointIndex;
-      const encodedImage = data.points[0].customdata;
-
-      const imgData = "data:image/png;base64," + encodedImage;
-
-      const img = document.createElement('img');
-      img.src = imgData;
-      img.style.width = '900px';
-
-      const modal = document.createElement('div');
-      modal.style.display = 'block';
-      modal.style.width = '100%';
-      modal.style.height = '100%';
-      modal.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
-      modal.style.position = 'fixed';
-      modal.style.top = 0;
-      modal.style.left = 0;
-      modal.style.zIndex = 9999;
-      modal.style.textAlign = 'center';
-      modal.style.paddingTop = '100px';
-
-      modal.appendChild(img);
-
-      document.body.appendChild(modal);
-
-      modal.addEventListener('click', function () {
-        document.body.removeChild(modal);
-      });
-
-      img.addEventListener('click', function (event) {
-        event.stopPropagation();
-      });
+    plotDiv.on('plotly_hover', function(data) {
+      plotDiv.style.cursor = 'default';
     });
 
+    plotDiv.on('plotly_click', function (data) {
+      // Remove any existing modal if present
+      const existingModal = document.getElementById('modal');
+      if (existingModal) {
+        document.body.removeChild(existingModal);
+      }
 
-    window.addEventListener('resize', function () {
-      // Get the new window size
-      var width = window.innerWidth;
-      var height = window.innerHeight;
+      // If a point was clicked
+      if (data.points.length > 0) {
+        const pointIndex = data.points[0].pointIndex;
+        const encodedImage = data.points[0].customdata
 
-      // Update the layout with the new size
-      var update = {
-        width: width,
-        height: height
-      };
+        const imgData = "data:image/png;base64," + encodedImage;
 
-      // Restyle the plot with the new layout
-      Plotly.relayout('affinitree-plot', update);
+        const img = document.createElement('img');
+        img.src = imgData;
+        img.id = 'modal-image';
+
+        const modal = document.createElement('div');
+        modal.id = 'modal';
+        modal.style.display = 'flex';
+        modal.style.justifyContent = 'center';
+        modal.style.alignItems = 'center';
+        modal.style.width = '100%';
+        modal.style.height = '100%';
+        modal.style.backgroundColor = 'rgba(0, 0, 0, 0.5)';
+        modal.style.position = 'fixed';
+        modal.style.top = 0;
+        modal.style.left = 0;
+        modal.style.zIndex = 9999;
+
+        modal.appendChild(img);
+
+        var mobilePortrait = window.matchMedia("(max-width: 768px) and (orientation: portrait)");
+        if (mobilePortrait.matches) {
+          img.style.width = window.innerWidth + 'px';
+        } else {
+          img.style.width = window.innerWidth * 0.7 + 'px';
+        }
+        img.style.height = 'auto';
+
+        img.style.position = 'absolute';
+        img.style.left = '50%';
+        img.style.top = '50%';
+        img.style.transform = 'translate(-50%, -50%)';
+
+        document.body.appendChild(modal);
+
+        modal.addEventListener('click', function () {
+          document.body.removeChild(modal);
+          // Reset marker opacity
+          for (let i = 0; i < traces.length; i++) {
+            Plotly.restyle('affinitree-plot', 'marker.opacity', [[1]], [i]);
+          }
+        });
+      }
+
+      // Reset trace selection
+      for (let i = 0; i < traces.length; i++) {
+          Plotly.restyle('affinitree-plot', 'selectedpoints', [null], [i]);
+      }
+    });
+
+    plotDiv.on('plotly_unhover', function(data){
+      plotDiv.style.cursor = 'pointer';
+    });
+
+    // Add an event listener for window resize to handle orientation changes
+    window.addEventListener('resize', function() {
+      // Update the layout dimensions
+      layout.width = window.innerWidth;
+      layout.height = window.innerHeight;
+
+      // Resize the plot
+      Plotly.relayout('affinitree-plot', layout);
     });
 
   });

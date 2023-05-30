@@ -19,7 +19,7 @@ import plotly.offline as pyo
 print(os.getcwd())
 
 # your data path
-data_path = "your_data.csv"
+data_path = "Neuma_TCI_Score.csv"
 df = pd.read_csv(data_path)
 
 
@@ -231,10 +231,11 @@ html_string = f"""
     <title>Affinitree</title>
     <style>
         #affinitree-plot {{
+            display: flex;
+            justify-content: center;
+            align-items: center;
             width: 100%;
-            max-width: 1400px;
-            height: 800px;
-            margin: 0 auto;
+            height: 100%;
         }}
 
         @media (max-width: 767px) {{
