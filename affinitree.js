@@ -39,6 +39,12 @@ document.addEventListener('DOMContentLoaded', function () {
         const img = document.createElement('img');
         img.src = imgData;
         img.id = 'modal-image';
+        img.style.maxWidth = '100%';
+        img.style.maxHeight = '100%';
+        img.style.position = 'absolute';
+        img.style.left = '50%';
+        img.style.top = '50%';
+        img.style.transform = 'translate(-50%, -50%)';
 
         const modal = document.createElement('div');
         modal.id = 'modal';
@@ -54,19 +60,6 @@ document.addEventListener('DOMContentLoaded', function () {
         modal.style.zIndex = 9999;
 
         modal.appendChild(img);
-
-        var mobilePortrait = window.matchMedia("(max-width: 768px) and (orientation: portrait)");
-        if (mobilePortrait.matches) {
-          img.style.width = window.innerWidth + 'px';
-        } else {
-          img.style.width = window.innerWidth * 0.7 + 'px';
-        }
-        img.style.height = 'auto';
-
-        img.style.position = 'absolute';
-        img.style.left = '50%';
-        img.style.top = '50%';
-        img.style.transform = 'translate(-50%, -50%)';
 
         document.body.appendChild(modal);
 

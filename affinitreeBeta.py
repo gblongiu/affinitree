@@ -246,6 +246,15 @@ html_string = f"""
                 height: auto;
             }}
         }}
+
+        #modal-image {{
+            max-width: 100vw;
+            max-height: 100vh;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }}
     </style>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
@@ -257,6 +266,7 @@ html_string = f"""
 </body>
 </html>
 """
+
 
 # Save the html_string to a file named index.html
 with open('index.html', 'w') as f:
