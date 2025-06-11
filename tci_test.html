@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TCI Questionnaire</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    .question { margin-bottom: 20px; }
+    .options label { margin-right: 10px; }
+  </style>
+</head>
+<body>
+  <h1>TCI Questionnaire</h1>
+  <form id="tci-form">
+    <div>
+      <label for="userId">Unique Identifier:</label>
+      <input type="text" id="userId" name="userId" required>
+    </div>
+    <div id="questions"></div>
+    <button type="submit">Submit</button>
+  </form>
+
+<script>
+fetch('questions.json')
+  .then(r => r.json())
+  .then(data => {
+    const container = document.getElementById('questions');
+    data.questions.forEach(q => {
+      const div = document.createElement('div');
+      div.className = 'question';
+      const p = document.createElement('p');
+      p.textContent = q.id + '. ' + q.text;
+      div.appendChild(p);
+      const options = document.createElement('div');
+      options.className = 'options';
+      for (let i = 1; i <= 5; i++) {
+        const label = document.createElement('label');
+        const input = document.createElement('input');
+        input.type = 'radio';
+        input.name = 'q' + q.id;
+        input.value = i;
+        label.appendChild(input);
+        label.appendChild(document.createTextNode(' ' + i + ' '));
+        options.appendChild(label);
+      }
+      div.appendChild(options);
+      container.appendChild(div);
+    });
+  });
+
+document.getElementById('tci-form').addEventListener('submit', function(e) {
+  e.preventDefault();
+  const userId = document.getElementById('userId').value.trim();
+  const totalQs = document.querySelectorAll('.question').length;
+  const answers = [];
+  for (let i = 1; i <= totalQs; i++) {
+    const checked = document.querySelector('input[name="q'+i+'"]:checked');
+    if (!checked) {
+      alert('Please answer all questions.');
+      return;
+    }
+    answers.push(checked.value);
+  }
+  fetch('/submit_test', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({userId, answers})
+  }).then(res => {
+    if (res.ok) {
+      alert('Responses submitted!');
+      document.getElementById('tci-form').reset();
+    } else {
+      alert('Error submitting responses');
+    }
+  });
+});
+</script>
+</body>
+</html>

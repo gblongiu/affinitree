@@ -1,0 +1,964 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "I often try new things just for fun or thrills, even if most people think it is a waste of time."
+    },
+    {
+      "id": 2,
+      "text": "I usually am confident that everything will go well even in situations that worry most people."
+    },
+    {
+      "id": 3,
+      "text": "I often feel that I am the victim of circumstances."
+    },
+    {
+      "id": 4,
+      "text": "I can usually accept other people as they are, even when they are very different from me."
+    },
+    {
+      "id": 5,
+      "text": "I like a challenge better than easy jobs."
+    },
+    {
+      "id": 6,
+      "text": "Often I feel that my life has little purpose or meaning."
+    },
+    {
+      "id": 7,
+      "text": "I like to help find a solution to problems so that everyone comes out ahead."
+    },
+    {
+      "id": 8,
+      "text": "I am usually eager to get going on any job I have to do."
+    },
+    {
+      "id": 9,
+      "text": "I often feel tense and worried in unfamiliar situations, even when others feel there is little to worry about."
+    },
+    {
+      "id": 10,
+      "text": "I often do things based on how I feel at the moment without thinking about how they were done in the past."
+    },
+    {
+      "id": 11,
+      "text": "I usually do things my own way, rather than giving in to the wishes of other people."
+    },
+    {
+      "id": 12,
+      "text": "I often feel a strong sense of unity with all the things around me."
+    },
+    {
+      "id": 13,
+      "text": "I would do almost anything legal in order to become rich and famous, even if I would lose the trust of many old friends."
+    },
+    {
+      "id": 14,
+      "text": "I am much more reserved and controlled than most people."
+    },
+    {
+      "id": 15,
+      "text": "I like to discuss my experiences and feelings openly with friends instead of keeping them to myself."
+    },
+    {
+      "id": 16,
+      "text": "I have less energy and get tired more quickly than most people."
+    },
+    {
+      "id": 17,
+      "text": "I seldom feel free to choose what I want to do."
+    },
+    {
+      "id": 18,
+      "text": "I don\u2019t seem to understand most people very well."
+    },
+    {
+      "id": 19,
+      "text": "I often avoid meeting strangers because I lack confidence with people I do not know."
+    },
+    {
+      "id": 20,
+      "text": "I like to please other people as much as I can."
+    },
+    {
+      "id": 21,
+      "text": "I often wish that I was smarter than everyone else."
+    },
+    {
+      "id": 22,
+      "text": "No job is too hard for me to do my best."
+    },
+    {
+      "id": 23,
+      "text": "I often wait for someone else to provide a solution to my problems."
+    },
+    {
+      "id": 24,
+      "text": "I often spend money until I run out of cash or get into debt from using too much credit."
+    },
+    {
+      "id": 25,
+      "text": "Often I have unexpected flashes of insight or understanding while relaxing."
+    },
+    {
+      "id": 26,
+      "text": "I don\u2019t care very much whether other people like me or the way I do things."
+    },
+    {
+      "id": 27,
+      "text": "I usually try to get just what I want for myself because it is not possible to satisfy everyone anyway."
+    },
+    {
+      "id": 28,
+      "text": "I have no patience with people who don\u2019t accept my views."
+    },
+    {
+      "id": 29,
+      "text": "I sometimes feel so connected to nature that everything seems to be part of one living process."
+    },
+    {
+      "id": 30,
+      "text": "When I have to meet a group of strangers, I am more shy than most people."
+    },
+    {
+      "id": 31,
+      "text": "I am more sentimental than most people."
+    },
+    {
+      "id": 32,
+      "text": "I think that most things that are called miracles are just chance."
+    },
+    {
+      "id": 33,
+      "text": "When someone hurts me in any way, I usually try to get even."
+    },
+    {
+      "id": 34,
+      "text": "My actions are determined largely by influences outside my control."
+    },
+    {
+      "id": 35,
+      "text": "Each day I try to take another step toward my goals."
+    },
+    {
+      "id": 36,
+      "text": "Please select the number four, this is a validity item."
+    },
+    {
+      "id": 37,
+      "text": "I am a very ambitious person."
+    },
+    {
+      "id": 38,
+      "text": "I usually stay calm and secure in situations that most people would find physically dangerous."
+    },
+    {
+      "id": 39,
+      "text": "I do not think it is smart to help weak people who cannot help themselves."
+    },
+    {
+      "id": 40,
+      "text": "I cannot have any peace of mind if I treat other people unfairly, even if they are unfair to me."
+    },
+    {
+      "id": 41,
+      "text": "People will usually tell me how they feel."
+    },
+    {
+      "id": 42,
+      "text": "Sometimes I have felt like I was part of something with no limits or boundaries in time and space."
+    },
+    {
+      "id": 43,
+      "text": "I sometimes feel a spiritual connection to other people that I cannot explain in words."
+    },
+    {
+      "id": 44,
+      "text": "I like it when people can do whatever they want without strict rules and regulations."
+    },
+    {
+      "id": 45,
+      "text": "When I fail at something, I become even more determined to do a better job."
+    },
+    {
+      "id": 46,
+      "text": "Usually I am more worried than most people that something might go wrong in the future."
+    },
+    {
+      "id": 47,
+      "text": "I usually think about all the facts in detail before I make a decision."
+    },
+    {
+      "id": 48,
+      "text": "I have many bad habits that I wish I could break."
+    },
+    {
+      "id": 49,
+      "text": "Other people control me too much."
+    },
+    {
+      "id": 50,
+      "text": "I like to be of service to others."
+    },
+    {
+      "id": 51,
+      "text": "I am usually able to get other people to believe me, even when I know that what I am saying is exaggerated or untrue."
+    },
+    {
+      "id": 52,
+      "text": "Sometimes I have felt my life was being directed by a spiritual force greater than any human being."
+    },
+    {
+      "id": 53,
+      "text": "I have a reputation as someone who is very practical and does not act on emotions."
+    },
+    {
+      "id": 54,
+      "text": "I am strongly moved by sentimental appeals (like when asked to help crippled children)."
+    },
+    {
+      "id": 55,
+      "text": "I am usually so determined that I continue to work long after other people have given up."
+    },
+    {
+      "id": 56,
+      "text": "I have had moments of great joy in which I suddenly had a clear, deep feeling of oneness with all that exists."
+    },
+    {
+      "id": 57,
+      "text": "I know what I want to do in my life."
+    },
+    {
+      "id": 58,
+      "text": "I often cannot deal with problems because I just don\u2019t know what to do."
+    },
+    {
+      "id": 59,
+      "text": "I prefer spending money rather than saving it."
+    },
+    {
+      "id": 60,
+      "text": "I have often been called an \u201ceager beaver\u201d because of my enthusiasm for hard work."
+    },
+    {
+      "id": 61,
+      "text": "If I am embarrassed or humiliated, I get over it very quickly."
+    },
+    {
+      "id": 62,
+      "text": "I like to strive for bigger and better things."
+    },
+    {
+      "id": 63,
+      "text": "I usually demand very good practical reasons before I am willing to change my old ways of doing things."
+    },
+    {
+      "id": 64,
+      "text": "I nearly always stay relaxed and carefree, even when nearly everyone else is fearful."
+    },
+    {
+      "id": 65,
+      "text": "I find sad songs and movies pretty boring."
+    },
+    {
+      "id": 66,
+      "text": "Circumstances often force me to do things against my will."
+    },
+    {
+      "id": 67,
+      "text": "I usually enjoy being mean to anyone who has been mean to me."
+    },
+    {
+      "id": 68,
+      "text": "I often become so fascinated with what I\u2019m doing that I get lost in the moment \u2013 like I\u2019m detached from time and place."
+    },
+    {
+      "id": 69,
+      "text": "I do not think I have a real sense of purpose for my life."
+    },
+    {
+      "id": 70,
+      "text": "I often feel tense and worried in unfamiliar situations, even when others feel there is no danger at all."
+    },
+    {
+      "id": 71,
+      "text": "I often follow my instincts, hunches, or intuition without thinking through all the details."
+    },
+    {
+      "id": 72,
+      "text": "I love to excel at everything I do."
+    },
+    {
+      "id": 73,
+      "text": "I often feel a strong spiritual or emotional connection with all the people around me."
+    },
+    {
+      "id": 74,
+      "text": "I usually try to imagine myself \u201cin other people\u2019s shoes\u201d, so I can really understand them."
+    },
+    {
+      "id": 75,
+      "text": "Principles like fairness and honesty have little role in some aspects of my life."
+    },
+    {
+      "id": 76,
+      "text": "I am more hard-working than most people."
+    },
+    {
+      "id": 77,
+      "text": "Even when most people feel it is not important, I often insist on things being done in a strict and orderly way."
+    },
+    {
+      "id": 78,
+      "text": "I feel very confident and sure of myself in almost all social situations."
+    },
+    {
+      "id": 79,
+      "text": "My friends find it hard to know my feelings because I seldom tell them about my private thoughts."
+    },
+    {
+      "id": 80,
+      "text": "I am good at communicating my feelings to others."
+    },
+    {
+      "id": 81,
+      "text": "I am more energetic and tire less quickly than most people."
+    },
+    {
+      "id": 82,
+      "text": "I often stop what I am doing because I get worried, even when my friends tell me everything will go well."
+    },
+    {
+      "id": 83,
+      "text": "I often wish I was more powerful than everyone else."
+    },
+    {
+      "id": 84,
+      "text": "Members of a team rarely get their fair share."
+    },
+    {
+      "id": 85,
+      "text": "I don\u2019t go out of my way to please other people."
+    },
+    {
+      "id": 86,
+      "text": "I am not shy with strangers at all."
+    },
+    {
+      "id": 87,
+      "text": "I spend most of my time doing things that seem necessary but not really important to me."
+    },
+    {
+      "id": 88,
+      "text": "I don\u2019t think that religious or ethical principles about what is right and wrong should have much influence in business decisions."
+    },
+    {
+      "id": 89,
+      "text": "I often try to put aside my own judgments so that I can better understand what other people are experiencing."
+    },
+    {
+      "id": 90,
+      "text": "Many of my habits make it hard for me to accomplish worthwhile goals."
+    },
+    {
+      "id": 91,
+      "text": "I have made real personal sacrifices in order to make the world a better place \u2013 like trying to prevent war, poverty and injustice."
+    },
+    {
+      "id": 92,
+      "text": "It takes me a long time to warm up to other people."
+    },
+    {
+      "id": 93,
+      "text": "It gives me pleasure to see my enemies suffer."
+    },
+    {
+      "id": 94,
+      "text": "No matter how hard a job is, I like to get started quickly."
+    },
+    {
+      "id": 95,
+      "text": "It often seems to other people like I am in another world because I am so completely unaware of things going on around me."
+    },
+    {
+      "id": 96,
+      "text": "I usually like to stay cool and detached from other people."
+    },
+    {
+      "id": 97,
+      "text": "I am more likely to cry at a sad movie than most people."
+    },
+    {
+      "id": 98,
+      "text": "I recover more quickly than most people from minor illnesses or stress."
+    },
+    {
+      "id": 99,
+      "text": "I often feel like I am a part of the spiritual force on which all life depends."
+    },
+    {
+      "id": 100,
+      "text": "I need much more practice in developing good habits before I will be able to trust myself in many tempting situations."
+    },
+    {
+      "id": 101,
+      "text": "Please select the number one; this is a validity item."
+    },
+    {
+      "id": 102,
+      "text": "I like to make quick decisions so I can get on with what has to be done."
+    },
+    {
+      "id": 103,
+      "text": "I am usually confident that I can easily do things that most people would consider dangerous (such as driving an automobile fast on a wet or icy road)"
+    },
+    {
+      "id": 104,
+      "text": "I like to explore new ways to do things."
+    },
+    {
+      "id": 105,
+      "text": "I enjoy saving money more than spending it on entertainment or thrills."
+    },
+    {
+      "id": 106,
+      "text": "I have had personal experiences in which I felt in contact with a divine and wonderful spiritual power."
+    },
+    {
+      "id": 107,
+      "text": "I have so many faults that I don\u2019t like myself very much."
+    },
+    {
+      "id": 108,
+      "text": "Most people seem more resourceful than I am."
+    },
+    {
+      "id": 109,
+      "text": "I often break rules and regulations when I think I can get away with it."
+    },
+    {
+      "id": 110,
+      "text": "Even when I am with friends, I prefer not to \u201copen up\u201d very much."
+    },
+    {
+      "id": 111,
+      "text": "The harder a job is the more I like it."
+    },
+    {
+      "id": 112,
+      "text": "Often when I look at an ordinary thing, something wonderful happens \u2013 I get the feeling that I am seeing it fresh for the first time."
+    },
+    {
+      "id": 113,
+      "text": "I usually feel tense and worried when I have to do something new and unfamiliar."
+    },
+    {
+      "id": 114,
+      "text": "I am eager to start work on any assigned duty."
+    },
+    {
+      "id": 115,
+      "text": "My will power is too weak to overcome very strong temptations, even if I know I will suffer as a consequence."
+    },
+    {
+      "id": 116,
+      "text": "If I am feeling upset, I usually feel better around friends than when left alone."
+    },
+    {
+      "id": 117,
+      "text": "I often accomplish more than people expect of me."
+    },
+    {
+      "id": 118,
+      "text": "Religious experiences have helped me to understand the real purpose of my life."
+    },
+    {
+      "id": 119,
+      "text": "I usually push myself harder than most people do because I want to do as well as I possibly can."
+    },
+    {
+      "id": 120,
+      "text": "Please select five, this is a validity item."
+    },
+    {
+      "id": 121,
+      "text": "I usually feel much more confident and energetic than most people, even after minor illnesses or stress."
+    },
+    {
+      "id": 122,
+      "text": "When nothing new is happening, I usually start looking for something that is thrilling or exciting."
+    },
+    {
+      "id": 123,
+      "text": "I like to think about things for a long time before I make a decision."
+    },
+    {
+      "id": 124,
+      "text": "People involved with me have to learn how to do things my way."
+    },
+    {
+      "id": 125,
+      "text": "I make a warm personal connection with most people."
+    },
+    {
+      "id": 126,
+      "text": "I am often described as an overachiever."
+    },
+    {
+      "id": 127,
+      "text": "I would rather read a book than talk about my feelings with another person."
+    },
+    {
+      "id": 128,
+      "text": "I enjoy getting revenge on people who hurt me."
+    },
+    {
+      "id": 129,
+      "text": "If something doesn\u2019t work as I expected, I am more likely to quit than to keep going for a long time."
+    },
+    {
+      "id": 130,
+      "text": "It is easy for other people to get close to me emotionally."
+    },
+    {
+      "id": 131,
+      "text": "I would probably stay relaxed and outgoing when meeting a group of strangers, even if I were told they are unfriendly."
+    },
+    {
+      "id": 132,
+      "text": "Please select the number two; this is a validity item"
+    },
+    {
+      "id": 133,
+      "text": "I generally don\u2019t like people who have different ideas from me."
+    },
+    {
+      "id": 134,
+      "text": "I often drag my heels a while before starting any project."
+    },
+    {
+      "id": 135,
+      "text": "I can usually do a good job of stretching the truth to tell a funnier story or to play a joke on someone."
+    },
+    {
+      "id": 136,
+      "text": "It is extremely difficult for me to adjust to changes in my usual way of doing things because I get so tense, tired, or worried."
+    },
+    {
+      "id": 137,
+      "text": "I am more of a perfectionist than most people."
+    },
+    {
+      "id": 138,
+      "text": "Other people often think that I am too independent because I won\u2019t do what they want."
+    },
+    {
+      "id": 139,
+      "text": "I am better at saving money than most people."
+    },
+    {
+      "id": 140,
+      "text": "I often give up a job if it takes much longer than I thought it would."
+    },
+    {
+      "id": 141,
+      "text": "Whether something is right or wrong is just a matter of opinion."
+    },
+    {
+      "id": 142,
+      "text": "I often learn a lot from people."
+    },
+    {
+      "id": 143,
+      "text": "I believe that all life depends on some spiritual order or power that cannot be completely explained."
+    },
+    {
+      "id": 144,
+      "text": "Things often go wrong for me unless I am very careful."
+    },
+    {
+      "id": 145,
+      "text": "I am slower than most people to get excited about new ideas and activities."
+    },
+    {
+      "id": 146,
+      "text": "I could probably accomplish more than I do, but I don\u2019t see the point in pushing myself harder than is necessary to get by."
+    },
+    {
+      "id": 147,
+      "text": "I usually stay away from social situations where I would have to meet strangers, even if I am assured that they will be friendly."
+    },
+    {
+      "id": 148,
+      "text": "I often feel so connected to the people around me that it is like there is no separation between us."
+    },
+    {
+      "id": 149,
+      "text": "In most situations my natural responses are based on good habits that I have developed."
+    },
+    {
+      "id": 150,
+      "text": "I often have to stop what I am doing because I start worrying about what might go wrong."
+    },
+    {
+      "id": 151,
+      "text": "I am often called \u201cabsent-minded\u201d because I get so wrapped up in what I am doing that I lose track of everything else."
+    },
+    {
+      "id": 152,
+      "text": "I often consider another person\u2019s feelings as much as my own."
+    },
+    {
+      "id": 153,
+      "text": "I am often described as an underachiever."
+    },
+    {
+      "id": 154,
+      "text": "Most of the time I would prefer to do something a little risky (like riding in a fast automobile over steep hills and sharp turns) rather than having to stay quiet and inactive for a few hours."
+    },
+    {
+      "id": 155,
+      "text": "Some people think I am too stingy or tight with my money."
+    },
+    {
+      "id": 156,
+      "text": "I like old \u201ctried and true\u201d ways of doing things much better than trying \u201cnew and improved\u201d ways."
+    },
+    {
+      "id": 157,
+      "text": "I often do things to help protect animals and plants from extinction."
+    },
+    {
+      "id": 158,
+      "text": "I often push myself to the point of exhaustion or try to do more than I really can."
+    },
+    {
+      "id": 159,
+      "text": "I am not very good at talking my way out of trouble when I am caught doing something wrong."
+    },
+    {
+      "id": 160,
+      "text": "Repeated practice has given me good habits that are stronger than most momentary impulses or persuasion."
+    },
+    {
+      "id": 161,
+      "text": "I think I will have very good luck in the future."
+    },
+    {
+      "id": 162,
+      "text": "I open up quickly to other people, even if I don\u2019t know them well."
+    },
+    {
+      "id": 163,
+      "text": "When I fail to master something at first, it becomes my personal challenge to succeed."
+    },
+    {
+      "id": 164,
+      "text": "You don\u2019t have to be dishonest to succeed in business."
+    },
+    {
+      "id": 165,
+      "text": "In conversations I am much better as a listener than as a talker."
+    },
+    {
+      "id": 166,
+      "text": "I would not be happy in a job where I did not communicate with other people."
+    },
+    {
+      "id": 167,
+      "text": "My attitudes are determined largely by influences outside my control."
+    },
+    {
+      "id": 168,
+      "text": "I often wish I was stronger than everyone else."
+    },
+    {
+      "id": 169,
+      "text": "I often need naps or extra rest periods because I get tired so easily."
+    },
+    {
+      "id": 170,
+      "text": "I have trouble telling a lie, even when it is meant to spare someone else\u2019s feelings."
+    },
+    {
+      "id": 171,
+      "text": "Regardless of any temporary problem that I have to overcome, I always think it will turn out well."
+    },
+    {
+      "id": 172,
+      "text": "It is hard for me to enjoy spending money on myself, even when I have saved plenty of money."
+    },
+    {
+      "id": 173,
+      "text": "I often do my best work under difficult circumstances."
+    },
+    {
+      "id": 174,
+      "text": "I like to keep my problems to myself."
+    },
+    {
+      "id": 175,
+      "text": "I have a vivid imagination."
+    },
+    {
+      "id": 176,
+      "text": "I like to stay at home better than to travel or explore new places."
+    },
+    {
+      "id": 177,
+      "text": "Warm friendships with other people are very important to me."
+    },
+    {
+      "id": 178,
+      "text": "I often wish I could stay young forever."
+    },
+    {
+      "id": 179,
+      "text": "I like to read everything when I am asked to sign any papers."
+    },
+    {
+      "id": 180,
+      "text": "I think I would stay confident and relaxed when meeting strangers, even if I were told they are angry at me."
+    },
+    {
+      "id": 181,
+      "text": "I feel it is more important to be sympathetic and understanding of other people than to be practical and tough-minded."
+    },
+    {
+      "id": 182,
+      "text": "I often wish I had special powers like Superman."
+    },
+    {
+      "id": 183,
+      "text": "I like to share what I have learned with other people."
+    },
+    {
+      "id": 184,
+      "text": "I usually look at a difficult situation as a challenge or opportunity."
+    },
+    {
+      "id": 185,
+      "text": "Most people I know look out only for themselves, no matter who else gets hurt."
+    },
+    {
+      "id": 186,
+      "text": "I need much extra rest, support, or reassurance to recover from minor illnesses or stress."
+    },
+    {
+      "id": 187,
+      "text": "I know there are principles for living that no one can violate without suffering in the long run."
+    },
+    {
+      "id": 188,
+      "text": "I don\u2019t want to be richer than everyone else."
+    },
+    {
+      "id": 189,
+      "text": "I like to go slow in starting work, even if it is easy to do."
+    },
+    {
+      "id": 190,
+      "text": "I would gladly risk my own life to make the world a better place."
+    },
+    {
+      "id": 191,
+      "text": "When my work goes unnoticed, I become even more determined to succeed."
+    },
+    {
+      "id": 192,
+      "text": "I often wish I could stop the passage of time."
+    },
+    {
+      "id": 193,
+      "text": "I hate to make decisions based only on my first impressions."
+    },
+    {
+      "id": 194,
+      "text": "I would rather be alone than deal with other people\u2019s problems."
+    },
+    {
+      "id": 195,
+      "text": "I don\u2019t want to be more admired than everyone else."
+    },
+    {
+      "id": 196,
+      "text": "I need a lot of help from other people to train me to have good habits."
+    },
+    {
+      "id": 197,
+      "text": "I like to do a job quickly and then volunteer for more."
+    },
+    {
+      "id": 198,
+      "text": "It is hard for me to tolerate people who are different from me."
+    },
+    {
+      "id": 199,
+      "text": "I would rather be kind than get revenge when someone hurts me."
+    },
+    {
+      "id": 200,
+      "text": "I really enjoy keeping busy."
+    },
+    {
+      "id": 201,
+      "text": "I try to cooperate with others as much as possible."
+    },
+    {
+      "id": 202,
+      "text": "I am often successful because of my ambition and hard work."
+    },
+    {
+      "id": 203,
+      "text": "It is usually easy for me to like those people who have different values from me."
+    },
+    {
+      "id": 204,
+      "text": "Good habits have become \u201csecond nature\u201d to me \u2013 they are automatic and spontaneous actions nearly all the time."
+    },
+    {
+      "id": 205,
+      "text": "I hate to change the way I do things, even if many people tell me there is a new and better way to do it."
+    },
+    {
+      "id": 206,
+      "text": "I think it is unwise to believe in things that cannot be explained scientifically."
+    },
+    {
+      "id": 207,
+      "text": "I am willing to make many sacrifices to be a success."
+    },
+    {
+      "id": 208,
+      "text": "I like to imagine my enemies suffering."
+    },
+    {
+      "id": 209,
+      "text": "Select three, this is a validity item."
+    },
+    {
+      "id": 210,
+      "text": "I like to pay close attention to details in everything I do."
+    },
+    {
+      "id": 211,
+      "text": "I usually am free to choose what I will do."
+    },
+    {
+      "id": 212,
+      "text": "Often I become so involved in what I am doing that I forget where I am for a while."
+    },
+    {
+      "id": 213,
+      "text": "I like other people to know that I really care about them."
+    },
+    {
+      "id": 214,
+      "text": "Most of the time I would prefer to do something risky (like hang-gliding or parachute jumping), rather than having to stay quiet and inactive for a few hours."
+    },
+    {
+      "id": 215,
+      "text": "Because I so often spend too much money on impulse, it is hard for me to save money, even for special plans like a vacation."
+    },
+    {
+      "id": 216,
+      "text": "I often give in to the wishes of friends."
+    },
+    {
+      "id": 217,
+      "text": "I never worry about terrible things that might happen in the future."
+    },
+    {
+      "id": 218,
+      "text": "People find it easy to come to me for help, sympathy, and warm understanding."
+    },
+    {
+      "id": 219,
+      "text": "Most of the time I quickly forgive anyone who does me wrong."
+    },
+    {
+      "id": 220,
+      "text": "I think my natural responses now are usually consistent with my principles and long-term goals."
+    },
+    {
+      "id": 221,
+      "text": "I prefer to wait for someone else to take the lead in getting things done."
+    },
+    {
+      "id": 222,
+      "text": "It is fun for me to buy things for myself."
+    },
+    {
+      "id": 223,
+      "text": "I have had experiences that made my role in life so clear to me that I felt very excited and happy."
+    },
+    {
+      "id": 224,
+      "text": "I usually respect the opinions of others."
+    },
+    {
+      "id": 225,
+      "text": "My behavior is strongly guided by certain goals that I have set for my life."
+    },
+    {
+      "id": 226,
+      "text": "It is usually foolish to promote the success of other people."
+    },
+    {
+      "id": 227,
+      "text": "I often wish I could live forever."
+    },
+    {
+      "id": 228,
+      "text": "When someone points out my mistakes, I work extra hard to correct them."
+    },
+    {
+      "id": 229,
+      "text": "I won\u2019t give up what I am doing just because of a long run of unexpected failures."
+    },
+    {
+      "id": 230,
+      "text": "I usually have good luck in whatever I try to do."
+    },
+    {
+      "id": 231,
+      "text": "I wish I were better looking than everyone else."
+    },
+    {
+      "id": 232,
+      "text": "Reports of mystical experiences are probably just wishful thinking."
+    },
+    {
+      "id": 233,
+      "text": "Individual rights are more important than the needs of any group."
+    },
+    {
+      "id": 234,
+      "text": "Dishonesty only causes problems if you get caught."
+    },
+    {
+      "id": 235,
+      "text": "Good habits make it easier for me to do things the way I want."
+    },
+    {
+      "id": 236,
+      "text": "Other people and conditions are often to blame for my problems."
+    },
+    {
+      "id": 237,
+      "text": "I usually can stay \u201con the go\u201d all day without having to push myself."
+    },
+    {
+      "id": 238,
+      "text": "I want to be the best at everything I do."
+    },
+    {
+      "id": 239,
+      "text": "I nearly always think about all the facts in detail before I make a decision, even when other people demand a quick decision."
+    },
+    {
+      "id": 240,
+      "text": "I am quick to volunteer when there is something to be do."
+    }
+  ]
+}
