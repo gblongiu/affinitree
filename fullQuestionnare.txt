@@ -1,0 +1,2650 @@
+1	I often try new things just for fun or thrills, even if most people think it is a waste of time.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+2	I usually am confident that everything will go well even in situations that worry most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+3	I often feel that I am the victim of circumstances.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+4	I can usually accept other people as they are, even when they are very different from me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+5	I like a challenge better than easy jobs.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+6	Often I feel that my life has little purpose or meaning.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+7	I like to help find a solution to problems so that everyone comes out ahead.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+8	I am usually eager to get going on any job I have to do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+9	I often feel tense and worried in unfamiliar situations, even when others feel there is little to worry about.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+10	I often do things based on how I feel at the moment without thinking about how they were done in the past.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+11	I usually do things my own way, rather than giving in to the wishes of other people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+12	I often feel a strong sense of unity with all the things around me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+13	I would do almost anything legal in order to become rich and famous, even if I would lose the trust of many old friends.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+14	I am much more reserved and controlled than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+15	I like to discuss my experiences and feelings openly with friends instead of keeping them to myself.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+16	I have less energy and get tired more quickly than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+17	I seldom feel free to choose what I want to do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+18	I don’t seem to understand most people very well.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+19	I often avoid meeting strangers because I lack confidence with people I do not know.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+20	I like to please other people as much as I can.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+21	I often wish that I was smarter than everyone else.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+22	No job is too hard for me to do my best.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+23	I often wait for someone else to provide a solution to my problems.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+24	I often spend money until I run out of cash or get into debt from using too much credit.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+25	Often I have unexpected flashes of insight or understanding while relaxing.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+26	I don’t care very much whether other people like me or the way I do things.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+27	I usually try to get just what I want for myself because it is not possible to satisfy everyone anyway.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+28	I have no patience with people who don’t accept my views.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+29	I sometimes feel so connected to nature that everything seems to be part of one living process.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+30	When I have to meet a group of strangers, I am more shy than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+31	I am more sentimental than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+32	I think that most things that are called miracles are just chance.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+33	When someone hurts me in any way, I usually try to get even.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+34	My actions are determined largely by influences outside my control.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+35	Each day I try to take another step toward my goals.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+36	Please select the number four, this is a validity item.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+37	I am a very ambitious person.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+38	I usually stay calm and secure in situations that most people would find physically dangerous.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+39	I do not think it is smart to help weak people who cannot help themselves.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+40	I cannot have any peace of mind if I treat other people unfairly, even if they are unfair to me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+41	People will usually tell me how they feel.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+42	Sometimes I have felt like I was part of something with no limits or boundaries in time and space.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+43	I sometimes feel a spiritual connection to other people that I cannot explain in words.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+44	I like it when people can do whatever they want without strict rules and regulations.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+45	When I fail at something, I become even more determined to do a better job.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+46	Usually I am more worried than most people that something might go wrong in the future.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+47	I usually think about all the facts in detail before I make a decision.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+48	I have many bad habits that I wish I could break.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+49	Other people control me too much.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+50	I like to be of service to others.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+51	I am usually able to get other people to believe me, even when I know that what I am saying is exaggerated or untrue.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+52	Sometimes I have felt my life was being directed by a spiritual force greater than any human being.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+53	I have a reputation as someone who is very practical and does not act on emotions.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+54	I am strongly moved by sentimental appeals (like when asked to help crippled children).
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+55	I am usually so determined that I continue to work long after other people have given up.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+56	I have had moments of great joy in which I suddenly had a clear, deep feeling of oneness with all that exists.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+57	I know what I want to do in my life.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+58	I often cannot deal with problems because I just don’t know what to do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+59	I prefer spending money rather than saving it.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+60	I have often been called an “eager beaver” because of my enthusiasm for hard work.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+61	If I am embarrassed or humiliated, I get over it very quickly.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+62	I like to strive for bigger and better things.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+63	I usually demand very good practical reasons before I am willing to change my old ways of doing things.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+64	I nearly always stay relaxed and carefree, even when nearly everyone else is fearful.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+65	I find sad songs and movies pretty boring.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+66	Circumstances often force me to do things against my will.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+67	I usually enjoy being mean to anyone who has been mean to me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+68	I often become so fascinated with what I’m doing that I get lost in the moment – like I’m detached from time and place.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+69	I do not think I have a real sense of purpose for my life.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+70	I often feel tense and worried in unfamiliar situations, even when others feel there is no danger at all.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+71	I often follow my instincts, hunches, or intuition without thinking through all the details.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+72	I love to excel at everything I do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+73	I often feel a strong spiritual or emotional connection with all the people around me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+74	I usually try to imagine myself “in other people’s shoes”, so I can really understand them.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+75	Principles like fairness and honesty have little role in some aspects of my life.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+76	I am more hard-working than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+77	Even when most people feel it is not important, I often insist on things being done in a strict and orderly way.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+78	I feel very confident and sure of myself in almost all social situations.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+79	My friends find it hard to know my feelings because I seldom tell them about my private thoughts.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+80	I am good at communicating my feelings to others.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+81	I am more energetic and tire less quickly than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+82	I often stop what I am doing because I get worried, even when my friends tell me everything will go well.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+83	I often wish I was more powerful than everyone else.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+84	Members of a team rarely get their fair share.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+85	I don’t go out of my way to please other people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+86	I am not shy with strangers at all.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+87	I spend most of my time doing things that seem necessary but not really important to me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+88	I don’t think that religious or ethical principles about what is right and wrong should have much influence in business decisions.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+89	I often try to put aside my own judgments so that I can better understand what other people are experiencing.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+90	Many of my habits make it hard for me to accomplish worthwhile goals.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+91	I have made real personal sacrifices in order to make the world a better place – like trying to prevent war, poverty and injustice.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+92	It takes me a long time to warm up to other people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+93	It gives me pleasure to see my enemies suffer.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+94	No matter how hard a job is, I like to get started quickly.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+95	It often seems to other people like I am in another world because I am so completely unaware of things going on around me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+96	I usually like to stay cool and detached from other people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+97	I am more likely to cry at a sad movie than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+98	I recover more quickly than most people from minor illnesses or stress.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+99	I often feel like I am a part of the spiritual force on which all life depends.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+100	I need much more practice in developing good habits before I will be able to trust myself in many tempting situations.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+101	Please select the number one; this is a validity item.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+102	I like to make quick decisions so I can get on with what has to be done.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+103	I am usually confident that I can easily do things that most people would consider dangerous (such as driving an automobile fast on a wet or icy road)
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+104	I like to explore new ways to do things.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+105	I enjoy saving money more than spending it on entertainment or thrills.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+106	I have had personal experiences in which I felt in contact with a divine and wonderful spiritual power.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+107	I have so many faults that I don’t like myself very much.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+108	Most people seem more resourceful than I am.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+109	I often break rules and regulations when I think I can get away with it.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+110	Even when I am with friends, I prefer not to “open up” very much.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+111	The harder a job is the more I like it.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+112	Often when I look at an ordinary thing, something wonderful happens – I get the feeling that I am seeing it fresh for the first time.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+113	I usually feel tense and worried when I have to do something new and unfamiliar.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+114	I am eager to start work on any assigned duty.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+115	My will power is too weak to overcome very strong temptations, even if I know I will suffer as a consequence.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+116	If I am feeling upset, I usually feel better around friends than when left alone.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+117	I often accomplish more than people expect of me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+118	Religious experiences have helped me to understand the real purpose of my life.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+119	I usually push myself harder than most people do because I want to do as well as I possibly can.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+120	Please select five, this is a validity item.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+121	I usually feel much more confident and energetic than most people, even after minor illnesses or stress.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+122	When nothing new is happening, I usually start looking for something that is thrilling or exciting.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+123	I like to think about things for a long time before I make a decision.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+124	People involved with me have to learn how to do things my way.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+125	I make a warm personal connection with most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+126	I am often described as an overachiever.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+127	I would rather read a book than talk about my feelings with another person.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+128	I enjoy getting revenge on people who hurt me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+129	If something doesn’t work as I expected, I am more likely to quit than to keep going for a long time.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+130	It is easy for other people to get close to me emotionally.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+131	I would probably stay relaxed and outgoing when meeting a group of strangers, even if I were told they are unfriendly.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+132	Please select the number two; this is a validity item
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+133	I generally don’t like people who have different ideas from me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+134	I often drag my heels a while before starting any project.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+135	I can usually do a good job of stretching the truth to tell a funnier story or to play a joke on someone.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+136	It is extremely difficult for me to adjust to changes in my usual way of doing things because I get so tense, tired, or worried.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+137	I am more of a perfectionist than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+138	Other people often think that I am too independent because I won’t do what they want.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+139	I am better at saving money than most people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+140	I often give up a job if it takes much longer than I thought it would.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+141	Whether something is right or wrong is just a matter of opinion.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+142	I often learn a lot from people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+143	I believe that all life depends on some spiritual order or power that cannot be completely explained.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+144	Things often go wrong for me unless I am very careful.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+145	I am slower than most people to get excited about new ideas and activities.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+146	I could probably accomplish more than I do, but I don’t see the point in pushing myself harder than is necessary to get by.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+147	I usually stay away from social situations where I would have to meet strangers, even if I am assured that they will be friendly.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+148	I often feel so connected to the people around me that it is like there is no separation between us.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+149	In most situations my natural responses are based on good habits that I have developed.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+150	I often have to stop what I am doing because I start worrying about what might go wrong.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+151	I am often called “absent-minded” because I get so wrapped up in what I am doing that I lose track of everything else.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+152	I often consider another person’s feelings as much as my own.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+153	I am often described as an underachiever.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+154	Most of the time I would prefer to do something a little risky (like riding in a fast automobile over steep hills and sharp turns) rather than having to stay quiet and inactive for a few hours.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+155	Some people think I am too stingy or tight with my money.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+156	I like old “tried and true” ways of doing things much better than trying “new and improved” ways.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+157	I often do things to help protect animals and plants from extinction.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+158	I often push myself to the point of exhaustion or try to do more than I really can.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+159	I am not very good at talking my way out of trouble when I am caught doing something wrong.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+160	Repeated practice has given me good habits that are stronger than most momentary impulses or persuasion.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+161	I think I will have very good luck in the future.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+162	I open up quickly to other people, even if I don’t know them well.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+163	When I fail to master something at first, it becomes my personal challenge to succeed.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+164	You don’t have to be dishonest to succeed in business.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+165	In conversations I am much better as a listener than as a talker.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+166	I would not be happy in a job where I did not communicate with other people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+167	My attitudes are determined largely by influences outside my control.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+168	I often wish I was stronger than everyone else.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+169	I often need naps or extra rest periods because I get tired so easily.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+170	I have trouble telling a lie, even when it is meant to spare someone else’s feelings.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+171	Regardless of any temporary problem that I have to overcome, I always think it will turn out well.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+172	It is hard for me to enjoy spending money on myself, even when I have saved plenty of money.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+173	I often do my best work under difficult circumstances.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+174	I like to keep my problems to myself.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+175	I have a vivid imagination.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+176	I like to stay at home better than to travel or explore new places.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+177	Warm friendships with other people are very important to me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+178	I often wish I could stay young forever.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+179	I like to read everything when I am asked to sign any papers.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+180	I think I would stay confident and relaxed when meeting strangers, even if I were told they are angry at me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+181	I feel it is more important to be sympathetic and understanding of other people than to be practical and tough-minded.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+182	I often wish I had special powers like Superman.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+183	I like to share what I have learned with other people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+184	I usually look at a difficult situation as a challenge or opportunity.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+185	Most people I know look out only for themselves, no matter who else gets hurt.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+186	I need much extra rest, support, or reassurance to recover from minor illnesses or stress.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+187	I know there are principles for living that no one can violate without suffering in the long run.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+188	I don’t want to be richer than everyone else.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+189	I like to go slow in starting work, even if it is easy to do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+190	I would gladly risk my own life to make the world a better place.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+191	When my work goes unnoticed, I become even more determined to succeed.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+192	I often wish I could stop the passage of time.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+193	I hate to make decisions based only on my first impressions.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+194	I would rather be alone than deal with other people’s problems.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+195	I don’t want to be more admired than everyone else.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+196	I need a lot of help from other people to train me to have good habits.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+197	I like to do a job quickly and then volunteer for more.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+198	It is hard for me to tolerate people who are different from me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+199	I would rather be kind than get revenge when someone hurts me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+200	I really enjoy keeping busy.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+201	I try to cooperate with others as much as possible.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+202	I am often successful because of my ambition and hard work.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+203	It is usually easy for me to like those people who have different values from me.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+204	Good habits have become “second nature” to me – they are automatic and spontaneous actions nearly all the time.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+205	I hate to change the way I do things, even if many people tell me there is a new and better way to do it.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+206	I think it is unwise to believe in things that cannot be explained scientifically.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+207	I am willing to make many sacrifices to be a success.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+208	I like to imagine my enemies suffering.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+209	Select three, this is a validity item.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+210	I like to pay close attention to details in everything I do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+211	I usually am free to choose what I will do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+212	Often I become so involved in what I am doing that I forget where I am for a while.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+213	I like other people to know that I really care about them.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+214	Most of the time I would prefer to do something risky (like hang-gliding or parachute jumping), rather than having to stay quiet and inactive for a few hours.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+215	Because I so often spend too much money on impulse, it is hard for me to save money, even for special plans like a vacation.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+216	I often give in to the wishes of friends.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+217	I never worry about terrible things that might happen in the future.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+218	People find it easy to come to me for help, sympathy, and warm understanding.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+219	Most of the time I quickly forgive anyone who does me wrong.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+220	I think my natural responses now are usually consistent with my principles and long-term goals.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+221	I prefer to wait for someone else to take the lead in getting things done.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+222	It is fun for me to buy things for myself.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+223	I have had experiences that made my role in life so clear to me that I felt very excited and happy.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+224	I usually respect the opinions of others.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+225	My behavior is strongly guided by certain goals that I have set for my life.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+226	It is usually foolish to promote the success of other people.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+227	I often wish I could live forever.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+228	When someone points out my mistakes, I work extra hard to correct them.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+229	I won’t give up what I am doing just because of a long run of unexpected failures.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+230	I usually have good luck in whatever I try to do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+231	I wish I were better looking than everyone else.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+232	Reports of mystical experiences are probably just wishful thinking.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+233	Individual rights are more important than the needs of any group.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+234	Dishonesty only causes problems if you get caught.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+235	Good habits make it easier for me to do things the way I want.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+236	Other people and conditions are often to blame for my problems.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+237	I usually can stay “on the go” all day without having to push myself.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+238	I want to be the best at everything I do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+239	I nearly always think about all the facts in detail before I make a decision, even when other people demand a quick decision.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+240	I am quick to volunteer when there is something to be do.
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
+
+241	Please enter a unique identifier to PRIVATELY identify your results. It will be visible to other users so keep that in mind for your selection. This can be a personal code, word, phrase, pseudonym, public wallet address (if you are interested in being verified to be eligible to receive future trait NFTs or badges), etc. Just make it unique and keep track of it for later. 
+*
+1=Definitely False 2=Mostly or Probably false   |   3=Neither True nor False or about Equally True and False   |   4=Mostly or Probably True   |   5=Definitely True
+Definitely False
+1
+2
+3
+4
+5
+Definitely True
